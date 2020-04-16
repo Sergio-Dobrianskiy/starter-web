@@ -6,9 +6,10 @@ This repository is for showing how Git and GitHub work
 This is just an introduction.
 
 ## Purpose
+Just plain text.
 
 ## Deployment
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos.
 
 ## How To Contribute
