@@ -13,3 +13,4 @@ Just plain text.
 Sample website with plenty of files for demos.
 
 ## How To Contribute
+2020 Git.Training.
