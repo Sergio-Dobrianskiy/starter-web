@@ -13,4 +13,7 @@ Just plain text.
 Sample website with plenty of files for demos.
 
 ## How To Contribute
-2020 Git.Training.
+
+Please fork thi repository and issue Pull request for review.
+
+## Copyright
